@@ -1,0 +1,59 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+img 
+{
+   border-radius: 20%;
+    width: 400px;
+    border-width: medium;
+    border-color: black;
+    border-radius: 20px;
+text-align: center;    
+}
+.menu{
+ list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    background-color: deepskyblue;
+    color:deepskyblue;
+    font-weight: bold;
+}
+#myname{
+    font-family: 'Courgette', cursive;
+}
+li{
+    display: inline;
+    background-color: deepskyblue;
+    color:white;
+    font-weight: bold;
+    
+}
+div{
+background-color:aliceblue;
+    background-repeat: no-repeat;
+}
+
+button{
+    background-color:antiquewhite;
+    font-size: 20px;
+        width:200px;
+    font-family: fantasy;
+    color:aliceblue;
+    float: none;
+}
+
+#my_inspiration{
+ font-size:xx-large;
+ font-weight:bold;
+background-color:lightseagreen;
+}
+
+    
+    
